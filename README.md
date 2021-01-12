@@ -1,2 +1,6 @@
 # Stock-price-movement-prediction
-Predicting whether stock prices would move up or down
+
+Stuff left to do in this project :-
+
+i) Collecting data from more sources
+ii) Hyperparameter tuning of params of ML models
